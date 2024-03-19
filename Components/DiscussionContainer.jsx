@@ -1,6 +1,6 @@
 import { Fdata } from "@/Data/forum";
 import React from "react";
-import Discussion from "@/Components/discussion";
+import Discussion from "@/Components/Discussion";
 
 const DiscussionContainer = () => {
   return (

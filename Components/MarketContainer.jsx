@@ -1,6 +1,5 @@
 import { Mdata } from "@/Data/market_stories";
 import React from "react";
-
 import Market from "@/Components/Market";
 
 const MarketContainer = () => {
